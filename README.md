@@ -1,12 +1,13 @@
 # fulltracevisualizer \
 Simple code for visualizing full traces of nanopore tdms files
 
-Controls: \ 
-Moving \
+Controls: 
+
+Moving 
 a - left \ 
-d - right\
-w - up\
-s - down\
+d - right \
+w - up \
+s - down \
 
 zoom \
 l - zoom in x \
